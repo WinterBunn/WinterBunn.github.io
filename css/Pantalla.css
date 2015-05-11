@@ -1,0 +1,9 @@
+body {
+	margin: 0 0 0 0;
+}
+
+.puntuacion{
+	font-family: fantasy;
+	font-size: 30px;
+	float: left;
+}
